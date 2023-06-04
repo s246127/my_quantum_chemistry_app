@@ -1,0 +1,2 @@
+# my_quantum_chemistry_app
+量子化学計算の学習に役立つアプリ
